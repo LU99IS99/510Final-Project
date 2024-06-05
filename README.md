@@ -35,8 +35,6 @@ Pet owners often struggle with maintaining the optimal weight and health of thei
    - Add the following environment variables to the `.env` file:
      ```plaintext
      AZURE_IOT_CONNECTION_STRING=<your_azure_iot_connection_string>
-     AWS_ACCESS_KEY_ID=<your_aws_access_key_id>
-     AWS_SECRET_ACCESS_KEY=<your_aws_secret_access_key>
      GOOGLE_API_KEY=<your_google_api_key>
      ```
 
