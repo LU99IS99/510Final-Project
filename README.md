@@ -8,7 +8,6 @@
 - Pandas
 - Plotly
 - Azure IoT Central
-- Boto3 (for AWS interactions)
 
 ## Problems You Are Trying to Solve
 Pet owners often struggle with maintaining the optimal weight and health of their pets. This project aims to solve:
