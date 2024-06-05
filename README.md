@@ -53,10 +53,8 @@ This project was an excellent opportunity to integrate multiple technologies and
 - How to integrate Streamlit for creating interactive web applications.
 - Data visualization techniques using Pandas and Plotly.
 - Integrating with cloud services like Azure IoT Central and AWS.
-- Handling CSV file uploads and processing them for data visualization.
 - Using environment variables for managing sensitive information.
 
 ## What Questions/Problems Did You Face?
 - **File Accessibility**: Ensuring that the files were accessible in different environments, especially after deploying to Streamlit Sharing.
-- **Data Handling**: Correctly handling and plotting the data from the CSV files, ensuring that the data types and column names were consistent.
 - **API Integrations**: Integrating with multiple APIs and services, managing authentication, and handling responses effectively.
